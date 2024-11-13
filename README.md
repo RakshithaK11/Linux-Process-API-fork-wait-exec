@@ -1,7 +1,3 @@
-# NAME : RAKSHITHA K
-# REGISTER NUMBER : 212223110039
-# Linux-Process-API-fork-wait-exec-
-Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
 
